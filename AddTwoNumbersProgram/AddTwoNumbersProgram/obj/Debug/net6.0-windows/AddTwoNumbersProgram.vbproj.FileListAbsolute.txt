@@ -1,0 +1,17 @@
+F:\GitHub Projects\addition-program\AddTwoNumbersProgram\AddTwoNumbersProgram\bin\Debug\net6.0-windows\AddTwoNumbersProgram.exe
+F:\GitHub Projects\addition-program\AddTwoNumbersProgram\AddTwoNumbersProgram\bin\Debug\net6.0-windows\AddTwoNumbersProgram.deps.json
+F:\GitHub Projects\addition-program\AddTwoNumbersProgram\AddTwoNumbersProgram\bin\Debug\net6.0-windows\AddTwoNumbersProgram.runtimeconfig.json
+F:\GitHub Projects\addition-program\AddTwoNumbersProgram\AddTwoNumbersProgram\bin\Debug\net6.0-windows\AddTwoNumbersProgram.dll
+F:\GitHub Projects\addition-program\AddTwoNumbersProgram\AddTwoNumbersProgram\bin\Debug\net6.0-windows\AddTwoNumbersProgram.pdb
+F:\GitHub Projects\addition-program\AddTwoNumbersProgram\AddTwoNumbersProgram\obj\Debug\net6.0-windows\AddTwoNumbersProgram.vbproj.AssemblyReference.cache
+F:\GitHub Projects\addition-program\AddTwoNumbersProgram\AddTwoNumbersProgram\obj\Debug\net6.0-windows\AddTwoNumbersProgram.Form1.resources
+F:\GitHub Projects\addition-program\AddTwoNumbersProgram\AddTwoNumbersProgram\obj\Debug\net6.0-windows\AddTwoNumbersProgram.vbproj.GenerateResource.cache
+F:\GitHub Projects\addition-program\AddTwoNumbersProgram\AddTwoNumbersProgram\obj\Debug\net6.0-windows\AddTwoNumbersProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub Projects\addition-program\AddTwoNumbersProgram\AddTwoNumbersProgram\obj\Debug\net6.0-windows\AddTwoNumbersProgram.AssemblyInfoInputs.cache
+F:\GitHub Projects\addition-program\AddTwoNumbersProgram\AddTwoNumbersProgram\obj\Debug\net6.0-windows\AddTwoNumbersProgram.AssemblyInfo.vb
+F:\GitHub Projects\addition-program\AddTwoNumbersProgram\AddTwoNumbersProgram\obj\Debug\net6.0-windows\AddTwoNumbersProgram.vbproj.CoreCompileInputs.cache
+F:\GitHub Projects\addition-program\AddTwoNumbersProgram\AddTwoNumbersProgram\obj\Debug\net6.0-windows\AddTwoNumbersProgram.dll
+F:\GitHub Projects\addition-program\AddTwoNumbersProgram\AddTwoNumbersProgram\obj\Debug\net6.0-windows\refint\AddTwoNumbersProgram.dll
+F:\GitHub Projects\addition-program\AddTwoNumbersProgram\AddTwoNumbersProgram\obj\Debug\net6.0-windows\AddTwoNumbersProgram.pdb
+F:\GitHub Projects\addition-program\AddTwoNumbersProgram\AddTwoNumbersProgram\obj\Debug\net6.0-windows\AddTwoNumbersProgram.genruntimeconfig.cache
+F:\GitHub Projects\addition-program\AddTwoNumbersProgram\AddTwoNumbersProgram\obj\Debug\net6.0-windows\ref\AddTwoNumbersProgram.dll
