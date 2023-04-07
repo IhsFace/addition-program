@@ -92,7 +92,6 @@ Partial Class Form1
         lblAnswer.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
         lblAnswer.Location = New Point(375, 200)
         lblAnswer.Name = "lblAnswer"
-        lblAnswer.ReadOnly = True
         lblAnswer.Size = New Size(100, 29)
         lblAnswer.TabIndex = 6
         ' 
@@ -101,7 +100,7 @@ Partial Class Form1
         btnAdd.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
         btnAdd.Location = New Point(200, 275)
         btnAdd.Name = "btnAdd"
-        btnAdd.Size = New Size(150, 30)
+        btnAdd.Size = New Size(150, 35)
         btnAdd.TabIndex = 7
         btnAdd.Text = "Add Numbers"
         btnAdd.UseVisualStyleBackColor = True
@@ -111,7 +110,7 @@ Partial Class Form1
         btnClear.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
         btnClear.Location = New Point(385, 275)
         btnClear.Name = "btnClear"
-        btnClear.Size = New Size(75, 30)
+        btnClear.Size = New Size(75, 35)
         btnClear.TabIndex = 8
         btnClear.Text = "Clear"
         btnClear.UseVisualStyleBackColor = True
